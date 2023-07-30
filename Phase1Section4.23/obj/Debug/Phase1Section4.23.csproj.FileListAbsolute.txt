@@ -1,0 +1,8 @@
+D:\Assisted Projects\Section-8\Phase1Section4.23\Phase1Section4.23\bin\Debug\Phase1Section4.23.exe.config
+D:\Assisted Projects\Section-8\Phase1Section4.23\Phase1Section4.23\bin\Debug\Phase1Section4.23.exe
+D:\Assisted Projects\Section-8\Phase1Section4.23\Phase1Section4.23\bin\Debug\Phase1Section4.23.pdb
+D:\Assisted Projects\Section-8\Phase1Section4.23\Phase1Section4.23\obj\Debug\Phase1Section4.23.csproj.AssemblyReference.cache
+D:\Assisted Projects\Section-8\Phase1Section4.23\Phase1Section4.23\obj\Debug\Phase1Section4.23.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Projects\Section-8\Phase1Section4.23\Phase1Section4.23\obj\Debug\Phase1Section4.23.csproj.CoreCompileInputs.cache
+D:\Assisted Projects\Section-8\Phase1Section4.23\Phase1Section4.23\obj\Debug\Phase1Section4.23.exe
+D:\Assisted Projects\Section-8\Phase1Section4.23\Phase1Section4.23\obj\Debug\Phase1Section4.23.pdb
